@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @indietogger
 - 👀 I’m interested in Full-stack Development (mobile/web)
 - 🌱 I’m currently learning React+Django
-- 💞️ I’m looking to collaborate on Web apps
 
 
 <!---
